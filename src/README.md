@@ -9,4 +9,4 @@ This folder contains the core source code modules for the solar power forecastin
 - `model_training.py` — Model definition, training routines, and evaluation utilities.
 - `utils.py` — Helper functions reused across the pipeline (e.g., reshaping, saving, visualization).
 
-Each module is organized for clarity, maintainability, and reusable development[3][4][2].
+Each module is organized for clarity, maintainability, and reusable development.
