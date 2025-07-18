@@ -21,6 +21,7 @@ data/
 ├── datasets/              # Combined or original datasets
 │   ├── panelandweather.csv
 │   └── irradiance.csv
+│   └── horizon.csv
 ```
 
 ## Notes
