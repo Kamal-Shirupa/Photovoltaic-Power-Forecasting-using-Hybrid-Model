@@ -1,0 +1,14 @@
+[
+  {
+    "Model": "RandomForest",
+    "Adjusted R2": 0.9997600064004355
+  },
+  {
+    "Model": "LSTM",
+    "Adjusted R2": 0.9986922876333191
+  },
+  {
+    "Model": "HybridModel",
+    "Adjusted R2": 0.9997033014683836
+  }
+]
