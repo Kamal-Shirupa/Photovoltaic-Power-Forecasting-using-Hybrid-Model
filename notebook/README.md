@@ -1,4 +1,4 @@
-# Google Colab Notebook (`notebooks/`)
+Notebook (`notebooks/`)
 
 This directory contains Google Colab notebooks demonstrating the usage and capabilities of the Solar Power Forecasting project.
 
